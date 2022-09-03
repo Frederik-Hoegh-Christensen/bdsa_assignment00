@@ -1,0 +1,15 @@
+C:\Users\Frederik\Desktop\SWU 3. sem\Analysis\bdsa_assignment00\LeapYear\obj\Debug\net6.0\LeapYear.csproj.AssemblyReference.cache
+C:\Users\Frederik\Desktop\SWU 3. sem\Analysis\bdsa_assignment00\LeapYear\obj\Debug\net6.0\LeapYear.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Frederik\Desktop\SWU 3. sem\Analysis\bdsa_assignment00\LeapYear\obj\Debug\net6.0\LeapYear.AssemblyInfoInputs.cache
+C:\Users\Frederik\Desktop\SWU 3. sem\Analysis\bdsa_assignment00\LeapYear\obj\Debug\net6.0\LeapYear.AssemblyInfo.cs
+C:\Users\Frederik\Desktop\SWU 3. sem\Analysis\bdsa_assignment00\LeapYear\obj\Debug\net6.0\LeapYear.csproj.CoreCompileInputs.cache
+C:\Users\Frederik\Desktop\SWU 3. sem\Analysis\bdsa_assignment00\LeapYear\bin\Debug\net6.0\LeapYear.exe
+C:\Users\Frederik\Desktop\SWU 3. sem\Analysis\bdsa_assignment00\LeapYear\bin\Debug\net6.0\LeapYear.deps.json
+C:\Users\Frederik\Desktop\SWU 3. sem\Analysis\bdsa_assignment00\LeapYear\bin\Debug\net6.0\LeapYear.runtimeconfig.json
+C:\Users\Frederik\Desktop\SWU 3. sem\Analysis\bdsa_assignment00\LeapYear\bin\Debug\net6.0\LeapYear.dll
+C:\Users\Frederik\Desktop\SWU 3. sem\Analysis\bdsa_assignment00\LeapYear\bin\Debug\net6.0\LeapYear.pdb
+C:\Users\Frederik\Desktop\SWU 3. sem\Analysis\bdsa_assignment00\LeapYear\obj\Debug\net6.0\LeapYear.dll
+C:\Users\Frederik\Desktop\SWU 3. sem\Analysis\bdsa_assignment00\LeapYear\obj\Debug\net6.0\refint\LeapYear.dll
+C:\Users\Frederik\Desktop\SWU 3. sem\Analysis\bdsa_assignment00\LeapYear\obj\Debug\net6.0\LeapYear.pdb
+C:\Users\Frederik\Desktop\SWU 3. sem\Analysis\bdsa_assignment00\LeapYear\obj\Debug\net6.0\LeapYear.genruntimeconfig.cache
+C:\Users\Frederik\Desktop\SWU 3. sem\Analysis\bdsa_assignment00\LeapYear\obj\Debug\net6.0\ref\LeapYear.dll
