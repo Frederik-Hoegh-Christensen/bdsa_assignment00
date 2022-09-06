@@ -3,6 +3,7 @@ namespace LeapYear.tests;
 public class LeapYearTests
 {
     
+    
     [Fact]
     public void Is4aLeapYear()
     {
@@ -25,4 +26,21 @@ public class LeapYearTests
         // Then
         result.Should().Be(false);
     }  
+
+    [Fact]
+    public void testWhetherYay()
+    {
+        // Given
+            using var writer = new StringWriter();
+            Console.SetOut(writer);
+            
+            var textReader = new StringReader("1600");
+        // When
+            Console.SetIn(textReader);
+            var _sut = new LeapYearCalculator();
+            _sut.writeYayOrNay();
+            var output = writer.GetStringBuilder().ToString().TrimEnd().Split("\r\n");
+        // Then
+            output[1].Should().Be("yay");
+    }
 }

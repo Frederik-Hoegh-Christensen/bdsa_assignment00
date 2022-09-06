@@ -107,3 +107,8 @@ C:\Users\Frederik\Desktop\SWU 3. sem\Analysis\bdsa_assignment00\LeapYear.tests\o
 C:\Users\Frederik\Desktop\SWU 3. sem\Analysis\bdsa_assignment00\LeapYear.tests\obj\Debug\net6.0\LeapYear.tests.pdb
 C:\Users\Frederik\Desktop\SWU 3. sem\Analysis\bdsa_assignment00\LeapYear.tests\obj\Debug\net6.0\LeapYear.tests.genruntimeconfig.cache
 C:\Users\Frederik\Desktop\SWU 3. sem\Analysis\bdsa_assignment00\LeapYear.tests\obj\Debug\net6.0\ref\LeapYear.tests.dll
+C:\Users\Frederik\Desktop\SWU 3. sem\Analysis\bdsa_assignment00\LeapYear.tests\bin\Debug\net6.0\Castle.Core.dll
+C:\Users\Frederik\Desktop\SWU 3. sem\Analysis\bdsa_assignment00\LeapYear.tests\bin\Debug\net6.0\Moq.dll
+C:\Users\Frederik\Desktop\SWU 3. sem\Analysis\bdsa_assignment00\LeapYear.tests\bin\Debug\net6.0\System.Diagnostics.EventLog.dll
+C:\Users\Frederik\Desktop\SWU 3. sem\Analysis\bdsa_assignment00\LeapYear.tests\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Diagnostics.EventLog.Messages.dll
+C:\Users\Frederik\Desktop\SWU 3. sem\Analysis\bdsa_assignment00\LeapYear.tests\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Diagnostics.EventLog.dll

@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "E1WqGImxBf3XgGJ6P2fmlVPSWuPzZXNp7ZPItR+FhodQaB+/kqGXVrwT5c9rC1KVlaNSzYL5WzlIaEeXmyC+4g==",
+  "dgSpecHash": "Cz3hMa8xmGnBja0Pg/98vukap5wRArY6V0HR9EpUMV2ArdqWiX8NqDu4lrXz4vtn5CYokzkjfnq9RjgoacUlkA==",
   "success": true,
   "projectFilePath": "C:\\Users\\Frederik\\Desktop\\SWU 3. sem\\Analysis\\bdsa_assignment00\\LeapYear.tests\\LeapYear.tests.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\Frederik\\.nuget\\packages\\castle.core\\5.1.0\\castle.core.5.1.0.nupkg.sha512",
     "C:\\Users\\Frederik\\.nuget\\packages\\coverlet.collector\\3.1.2\\coverlet.collector.3.1.2.nupkg.sha512",
     "C:\\Users\\Frederik\\.nuget\\packages\\fluentassertions\\6.7.0\\fluentassertions.6.7.0.nupkg.sha512",
     "C:\\Users\\Frederik\\.nuget\\packages\\microsoft.codecoverage\\17.1.0\\microsoft.codecoverage.17.1.0.nupkg.sha512",
@@ -14,6 +15,7 @@
     "C:\\Users\\Frederik\\.nuget\\packages\\microsoft.testplatform.objectmodel\\17.1.0\\microsoft.testplatform.objectmodel.17.1.0.nupkg.sha512",
     "C:\\Users\\Frederik\\.nuget\\packages\\microsoft.testplatform.testhost\\17.1.0\\microsoft.testplatform.testhost.17.1.0.nupkg.sha512",
     "C:\\Users\\Frederik\\.nuget\\packages\\microsoft.win32.primitives\\4.3.0\\microsoft.win32.primitives.4.3.0.nupkg.sha512",
+    "C:\\Users\\Frederik\\.nuget\\packages\\moq\\4.18.2\\moq.4.18.2.nupkg.sha512",
     "C:\\Users\\Frederik\\.nuget\\packages\\netstandard.library\\1.6.1\\netstandard.library.1.6.1.nupkg.sha512",
     "C:\\Users\\Frederik\\.nuget\\packages\\newtonsoft.json\\9.0.1\\newtonsoft.json.9.0.1.nupkg.sha512",
     "C:\\Users\\Frederik\\.nuget\\packages\\nuget.frameworks\\5.11.0\\nuget.frameworks.5.11.0.nupkg.sha512",
@@ -41,6 +43,7 @@
     "C:\\Users\\Frederik\\.nuget\\packages\\system.console\\4.3.0\\system.console.4.3.0.nupkg.sha512",
     "C:\\Users\\Frederik\\.nuget\\packages\\system.diagnostics.debug\\4.3.0\\system.diagnostics.debug.4.3.0.nupkg.sha512",
     "C:\\Users\\Frederik\\.nuget\\packages\\system.diagnostics.diagnosticsource\\4.3.0\\system.diagnostics.diagnosticsource.4.3.0.nupkg.sha512",
+    "C:\\Users\\Frederik\\.nuget\\packages\\system.diagnostics.eventlog\\6.0.0\\system.diagnostics.eventlog.6.0.0.nupkg.sha512",
     "C:\\Users\\Frederik\\.nuget\\packages\\system.diagnostics.tools\\4.3.0\\system.diagnostics.tools.4.3.0.nupkg.sha512",
     "C:\\Users\\Frederik\\.nuget\\packages\\system.diagnostics.tracing\\4.3.0\\system.diagnostics.tracing.4.3.0.nupkg.sha512",
     "C:\\Users\\Frederik\\.nuget\\packages\\system.dynamic.runtime\\4.0.11\\system.dynamic.runtime.4.0.11.nupkg.sha512",
