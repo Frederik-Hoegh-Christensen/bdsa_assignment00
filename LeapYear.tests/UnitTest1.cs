@@ -43,4 +43,21 @@ public class LeapYearTests
         // Then
             output[1].Should().Be("yay");
     }
+
+    [Fact]
+    public void testWhetherNay()
+    {
+        // Given
+            using var writer = new StringWriter();
+            Console.SetOut(writer);
+            
+            var textReader = new StringReader("2333");
+        // When
+            Console.SetIn(textReader);
+            var _sut = new LeapYearCalculator();
+            _sut.writeYayOrNay();
+            var output = writer.GetStringBuilder().ToString().TrimEnd().Split("\r\n");
+        // Then
+            output[1].Should().Be("nay");
+    }
 }
