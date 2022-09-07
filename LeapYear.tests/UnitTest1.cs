@@ -42,7 +42,9 @@ public class LeapYearTests
             var output = writer.GetStringBuilder().ToString().TrimEnd().Split(Environment.
             NewLine,StringSplitOptions.RemoveEmptyEntries);
         // Then
+            
             output[1].Should().Be("yay");
+            
     }
 
     [Fact]
@@ -57,7 +59,8 @@ public class LeapYearTests
             Console.SetIn(textReader);
             var _sut = new LeapYearCalculator();
             _sut.writeYayOrNay();
-            var output = writer.GetStringBuilder().ToString().TrimEnd().Split("\r\n");
+            var output = writer.GetStringBuilder().ToString().TrimEnd().Split(Environment.
+            NewLine,StringSplitOptions.RemoveEmptyEntries);
         // Then
             output[1].Should().Be("nay");
     }
