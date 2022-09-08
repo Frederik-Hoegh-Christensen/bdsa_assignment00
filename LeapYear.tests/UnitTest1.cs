@@ -64,4 +64,24 @@ public class LeapYearTests
         // Then
             output[1].Should().Be("nay");
     }
+
+    [Fact]
+    public void TestName()
+    {
+        // Given
+        using var writer = new StringWriter();
+        Console.SetOut(writer);
+        var firstReader = new StringReader("100");
+        Console.SetIn(firstReader);
+        // When
+        var _sut = new LeapYearCalculator();
+        _sut.writeYayOrNay();
+        
+        var output = writer.GetStringBuilder().ToString().TrimEnd().Split(Environment.
+            NewLine,StringSplitOptions.RemoveEmptyEntries);
+            
+        // Then
+        output[1].Should().Be("The program can only handle years that a higher than 1581");
+        
+    }
 }

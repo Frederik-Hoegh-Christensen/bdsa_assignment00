@@ -47,7 +47,6 @@ public class LeapYearCalculator{
         catch (Exception e)
         {
             Console.WriteLine(e.Message);
-            writeYayOrNay();
         }
     }
 }
